@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.xxregione.it/
+[DOC#8#10]
+BASEURL=http://www.xxregione.it/cultura.htm
+ORIGURL=home.htm
+[InternetShortcut]
+URL=http://www.xxregione.it/
+Modified=A0FC8D962D73C90129
